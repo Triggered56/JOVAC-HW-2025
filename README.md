@@ -15,7 +15,7 @@
 <h2>Learning Path</h2>
 <p>I am actively working on improving my skills in:</p>
 <ol>
- <li>Frontend Technologies</li>
+ <li>Frontend Technologies</li> <p></p>
   <ul>
    <li>HTML5</li>
    <li>CSS3</li>
@@ -23,7 +23,7 @@
    <li>Modern frameworks (to be added)</li>
   </ul>
 <p></p>
- <li>Backend Technologies</li>
+ <li>Backend Technologies</li> <p></p>
   <ul>
     <li>Server-side programming</li>
     <li>API development</li>
