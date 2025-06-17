@@ -14,7 +14,7 @@
 
 <h2>Learning Path</h2>
 <p>I am actively working on improving my skills in:</p>
-<p> <ol>
+<ol>
  <li>Frontend Technologies</li>
   <ul>
    <li>HTML5</li>
@@ -22,12 +22,12 @@
    <li>Javascript</li>
    <li>Modern frameworks (to be added)</li>
   </ul>
-
+<p></p>
  <li>Backend Technologies</li>
   <ul>
     <li>Server-side programming</li>
     <li>API development</li>
     <li>Database management</li>
   </ul>
-</ol> </p>
+</ol>
 <p>Feel free to explore my code and provide feedback!</p>
